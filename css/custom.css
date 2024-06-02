@@ -1,0 +1,21 @@
+.section-data, .myDD{
+	background-image: url('../image/bg.png');
+	background-color: rgba(0,0,0,2);
+	background-blend-mode: screen ;
+}
+.english{
+	font-family: Arial, Helvetica, sans-serif;
+}
+.bigtitle{
+	 font-family: "Times New Roman", Times, serif;
+	 color: #b30000;
+}
+.myquote{
+	font-family: pyidaungsu;
+	font-size: 15px;
+	font-style: italic;
+	text-indent: 30px;
+}
+.navsection{
+	box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
+}
